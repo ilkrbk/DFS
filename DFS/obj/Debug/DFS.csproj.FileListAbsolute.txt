@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/bin/Debug/DFS.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/bin/Debug/DFS.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/obj/Debug/DFS.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/obj/Debug/DFS.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/obj/Debug/DFS.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/DFS/DFS/obj/Debug/DFS.pdb
