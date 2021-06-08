@@ -27,3 +27,6 @@ EdgeX EdgeY
 2 5
 1 5
 ```
+
+### Run the program
+Enter start vertex
